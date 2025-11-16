@@ -1,3 +1,7 @@
+Source code: https://github.com/piyush-eon/ai-creator-platform/tree/main
+Youtube Tutorial: https://youtu.be/pyEmZ6WqE5c
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
