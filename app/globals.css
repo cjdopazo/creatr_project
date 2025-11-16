@@ -120,3 +120,17 @@
     @apply bg-background text-foreground;
   }
 }
+
+/* Text Gradient - Complex gradient used across the app */
+.gradient-text-primary {
+  @apply bg-gradient-to-r from-white via-lime-200 to-lime-200 bg-clip-text text-transparent;
+}
+
+.gradient-text-accent {
+  @apply bg-gradient-to-r from-white to-gray-300 bg-clip-text text-transparent;
+}
+
+/* Glass Card Effect - Complex background/border combination used frequently */
+.card-glass {
+  @apply bg-gradient-to-r from-green-900/30 via-blue-950/10 to-green-950/10 border-slate-700 hover:border-lime-500/50;
+}
